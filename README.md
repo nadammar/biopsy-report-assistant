@@ -52,6 +52,7 @@ This project demonstrates how **AI and semantic search can transform pathology w
 * **Reduces errors** in medical documentation.
 * **Saves \~50% of the time** usually spent on writing reports.
 
+--- 
 
 ## Video Demo
 
