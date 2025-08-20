@@ -5,7 +5,7 @@
 This repository contains the implementation of my **2nd-year engineering end-of-year project (PFA)** carried out at **ITProgress, Tunis, Tunisia** from **March 15, 2025, to May 30, 2025**. The project focuses on building an **AI-powered assistant for biopsy report generation** using **RAG (Retrieval-Augmented Generation)**, semantic search with **PostgreSQL + pgvector**, and local LLMs with **Ollama**. The solution aims to **reduce doctors’ workload, save time, and improve the consistency of medical reports**.
 
 
-<img src="screenshots/ragtest2.jpg" alt="competition" width="700"/>
+<img src="screenshots/ragtest2.jpg" alt="competition" width="600"/>
 
 
 ⚠️ **Confidentiality Notice:** The data used in this project comes from a **partner laboratory** and is strictly **private and confidential**.
@@ -53,7 +53,9 @@ This project demonstrates how **AI and semantic search can transform pathology w
 * **Saves \~50% of the time** usually spent on writing reports.
 
 
----
+## Video Demo
+
+📌 Watch a full demonstration of the Intelligent Assistant for Biopsy Report Generation in action on **LinkedIn** → \[()]
 
 ## Conclusion
 
