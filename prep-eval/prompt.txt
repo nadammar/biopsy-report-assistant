@@ -1,0 +1,29 @@
+Prompt 1 :
+Biopsie de la joue droite, suspicion de carcinome basocellulaire.
+Fragment cutané de 0,4 x 0,3 cm, couleur beige.
+Présence clinique d’une lésion perlée persistante.
+Analyse immunohistochimique demandée : Ber-EP4.
+
+Prompt 2 :
+Lésion pigmentée sur l’avant-bras gauche, évolution rapide.
+Biopsie de 0,6 x 0,4 cm, coloration brun foncé.
+Recherche de mélanome malin.
+Techniques demandées : HMB-45, Melan-A.
+
+Prompt 3 :
+Biopsie cutanée de la région thoracique antérieure.
+Plaque érythémateuse chronique suspectée pour psoriasis.
+Fragment de 1,0 cm, surface squameuse.
+Examen microscopique pour confirmation.
+
+Prompt 4 :
+Biopsie de la tempe droite, lésion kératosique.
+Fragment de 0,5 x 0,3 cm.
+Suspicion de kératose actinique ou carcinome épidermoïde in situ.
+Pas de techniques spéciales demandées.
+
+Prompt 5 :
+Plaie ulcérée persistante au niveau du talon.
+Biopsie de 0,8 cm, tissu mou brunâtre.
+Suspicion de carcinome verruqueux.
+Recherche d’invasion vasculaire et périneurale.
