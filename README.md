@@ -31,6 +31,8 @@ This repository contains the implementation of my **2nd-year engineering end-of-
   * Generates a **new report** that the doctor can review.
   * Allows doctors to **download the final report as a PDF**.
 
+<img src="screenshots/ragtest2.jpg" alt="competition" width="600"/>
+
 ---
 
 
@@ -56,7 +58,7 @@ This project demonstrates how **AI and semantic search can transform pathology w
 
 ## Video Demo
 
-📌 Watch a full demonstration of the Intelligent Assistant for Biopsy Report Generation in action on **LinkedIn** → \[()]
+📌 Watch a full demonstration of the Intelligent Assistant for Biopsy Report Generation in action on **LinkedIn** → \[(https://www.linkedin.com/posts/nada-ammar-465556207_ai-healthcare-rag-activity-7365656704019050496-Ahgj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSVrA0B9YGC7IJFPGEKGSwo0T9h5GBarvE)]
 
 ## Conclusion
 
